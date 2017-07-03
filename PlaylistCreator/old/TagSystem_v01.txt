@@ -1,0 +1,62 @@
+#Tagfile: [Tag \tab title]. Tag: [Uppercase none/lower]
+#"alowedCaracters": !#¤()=`´+@£€{[]}´,;.-_§
+	#Maybe dangerous:$%&
+#Filenames with tags: _{Tag}_
+
+TagStart: _{
+TagStop: }_
+
+A	Not mixable
+Am	All music BasicGenerationOfList
+An	All non music audio
+
+B
+
+C	All classic and Ish
+Ct	Classic True
+Ci	Classic Ish
+
+D	Dance music
+Dz	Zouk
+Dzf	Zouk favorite
+Dzc	Challenging zouk melody
+Dc	Cha cha
+
+E
+Ex	Exclude
+
+F	Favorite
+Ft	Top favorite
+
+G
+
+H	Happy
+
+I
+
+J	Not mixable
+Ja	jazz
+Jp	J Pop
+
+K
+L
+
+M	Music
+
+N
+O
+
+P	pop
+
+Q
+
+R	Russian soundFiles
+
+S
+T
+U
+V
+W
+X
+Y
+Z

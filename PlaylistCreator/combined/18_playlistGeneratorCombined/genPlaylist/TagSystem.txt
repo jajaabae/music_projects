@@ -1,0 +1,78 @@
+#Tagfile: [Tag \tab title]. Tag: [Uppercase none/lower]
+#"alowedCaracters": !#¤()=`´+@£€{[]}´,;.-_§
+	#Maybe dangerous:$%&
+#Filenames with tags: _{Tag}_
+
+TagStart: _{
+TagStop: }_
+
+A	Not mixable
+Am	All music BasicGenerationOfList
+An	All non music audio
+
+B
+
+C	All classic and Ish
+Ct	Classic True
+Ci	Classic Ish
+
+D	Dance music
+Dz	Zouk
+Dzf	Zouk favorite
+Dzc	Challenging zouk melody
+Dc	Cha cha
+Dj	jive
+Dr	rumba
+Ds	salsa
+Dsl	salsa LA
+Dsc	salsa Cuban
+Dm	samba
+Dt	tango
+Dtf	tango
+favorite
+Dw	WCS
+Dwf	WCS favorite
+
+E
+Ex	Exclude
+
+F	Favorite
+Ft	Top favorite
+
+G
+
+H	Happy
+
+I
+
+J	Not mixable
+Ja	jazz
+Jp	J Pop
+
+K
+L
+
+M	Music
+
+N
+O
+
+P	pop
+
+Q
+
+R
+Ru	Russian soundFiles
+Ruu	Russian soundFiles
+unheard
+Ruh	Russian soundFiles
+heard
+
+S
+T
+U
+V
+W
+X
+Y
+Z

@@ -1,0 +1,45 @@
+http://en.wikipedia.org/wiki/M3U
+-------------------------
+#EXTM3U
+
+#EXTINF:123, Sample artist - Sample title
+C:\Documents and Settings\I\My Music\Sample.mp3
+
+#EXTINF:321,Example Artist - Example title
+C:\Documents and Settings\I\My Music\Greatest Hits\Example.ogg
+-------------------------
+C:\Music
+-------------------------
+#EXTM3U
+
+#EXTINF:123, Sample artist - Sample title
+Sample.mp3
+
+#EXTINF:321,Example Artist - Example title
+Greatest Hits\Example.ogg
+-------------------------
+Alternative\Band - Song.mp3
+Classical\Other Band - New Song.mp3
+Stuff.mp3
+D:\More Music\Foo.mp3
+..\Other Music\Bar.mp3
+http://emp.cx:8000/Listen.pls
+http://www.example.com/~user/Mine.mp3
+-------------------------
+AnotherPlayList.m3u
+-------------------------
+#EXTM3U
+#EXTINF:419,Alice in Chains - Rotten Apple
+Alice in Chains_Jar of Flies_01_Rotten Apple.mp3
+#EXTINF:260,Alice in Chains - Nutshell
+Alice in Chains_Jar of Flies_02_Nutshell.mp3
+#EXTINF:255,Alice in Chains - I Stay Away
+Alice in Chains_Jar of Flies_03_I Stay Away.mp3
+#EXTINF:256,Alice in Chains - No Excuses
+Alice in Chains_Jar of Flies_04_No Excuses.mp3
+#EXTINF:157,Alice in Chains - Whale And Wasp
+Alice in Chains_Jar of Flies_05_Whale And Wasp.mp3
+#EXTINF:263,Alice in Chains - Don't Follow
+Alice in Chains_Jar of Flies_06_Don't Follow.mp3
+#EXTINF:245,Alice in Chains - Swing On This
+Alice in Chains_Jar of Flies_07_Swing On This.mp3
